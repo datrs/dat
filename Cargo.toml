@@ -1,0 +1,14 @@
+[package]
+name = "dat"
+version = "0.0.0"
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/datrs/dat"
+documentation = "https://docs.rs/dat"
+description = "Dat protocol implementation"
+authors = ["Yoshua Wuyts <yoshuawuyts@gmail.com>"]
+readme = "README.md"
+
+[dependencies]
+
+[dev-dependencies]
+clippy = "0.0"
